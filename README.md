@@ -1,4 +1,4 @@
-# signlang 
+# Sign Language Detection
 Sign language is a method of communication which uses various hand gestures and
 movements. Understanding these gestures can be postulated as a pattern recognition
 problem. Humans use different kinds of gestures and motions to convey different
